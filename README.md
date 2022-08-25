@@ -2,9 +2,13 @@
 
 List of functions all aimed to convert old Office files, into the newer format.
 ConvertDOC-ToDOCX
+
 ConvertXLS-ToXLSX
+
 ConvertPPT-ToPPTX
+
 Convert-OfficeFiles
+
   - This is a reference function for the rest of the functions - all in one.
   
   
